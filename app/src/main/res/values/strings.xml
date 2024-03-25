@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">JudePast</string>
     <string name="register">Register</string>
+    <string name="welcome_n_to_the_ui_lovers">Welcome\n to the UI lovers</string>
+    <string name="word">Experience the extraordinary as our\n Visionary UI design propels you\n into a world of endless possibilities,\n where innovation shapes future</string>
+    <string name="get_started">Get Started</string>
 </resources>

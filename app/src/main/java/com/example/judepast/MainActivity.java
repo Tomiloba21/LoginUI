@@ -14,19 +14,19 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_intro);
 
 
-        fName = findViewById(R.id.edit_fName);
-        lName = findViewById(R.id.edit_lName);
-        mail = findViewById(R.id.edit_mail);
-
-
-        //GETTING VALUES FROM THE EDITTEXT
-
-        String first_Name = String.valueOf(fName);
-        String last_Name = String.valueOf(lName);
-        String email = String.valueOf(mail);
+//        fName = findViewById(R.id.edit_fName);
+//        lName = findViewById(R.id.edit_lName);
+//        mail = findViewById(R.id.edit_mail);
+//
+//
+//        //GETTING VALUES FROM THE EDITTEXT
+//
+//        String first_Name = String.valueOf(fName);
+//        String last_Name = String.valueOf(lName);
+//        String email = String.valueOf(mail);
 
     }
 
