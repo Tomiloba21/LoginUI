@@ -4,4 +4,12 @@
     <string name="welcome_n_to_the_ui_lovers">Welcome\n to the UI lovers</string>
     <string name="word">Experience the extraordinary as our\n Visionary UI design propels you\n into a world of endless possibilities,\n where innovation shapes future</string>
     <string name="get_started">Get Started</string>
+    <string name="log_out">Log out</string>
+    <string name="alex_flores">Alex Flores</string>
+    <string name="alexflores_gmail_com">alexflores@gmail.com</string>
+    <string name="calender">Calender</string>
+    <string name="gallery">Gallery</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
 </resources>
